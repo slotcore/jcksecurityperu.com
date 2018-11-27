@@ -1,0 +1,18 @@
+CONTROL DE ACCESO BIOMETRICO
+
+El control de acceso biométrico es un sistema de identificación basado en 
+las cualidades biológicas del usuario. Dentro de este sistema, 
+podemos diferenciar entre diferentes tipos de reconocimiento ,
+Puede ser por huella dactilar, facial, ocular o vascular. 
+La autentificación biométrica aplica técnicas matemáticas para 
+verificar la identidad de una persona
+
+AUTOMATIZADORES
+
+Un control de acceso es un sistema automatizado que permite de forma eficaz, 
+aprobar o negar el paso de personas o grupo de personas a zonas restringidas 
+en función de ciertos parámetros de seguridad establecidos por una empresa,
+comercio, institución.
+
+CONTAMOS CON LA MARCA N°1 EN CONTROL DE ACCESO A NIVEL NACIONAL 
+ ZKTeco

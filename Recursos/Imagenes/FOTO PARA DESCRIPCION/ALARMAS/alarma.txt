@@ -1,0 +1,20 @@
+Un sistema de alarma consiste en la instalación de una serie 
+de equipos electrónicos en los lugares de su hogar o empresa considerados 
+estratégicos desde el punto de vista de la seguridad y que están conectados
+al sistema o panel central. Estos dispositivos pueden ser sensores 
+de movimiento, contactos magnéticos, botón de pánico, 
+entre otros, y éstos envían señales en forma periódica al panel las 24 horas 
+del día.
+
+Al recibir una señal de alarma proveniente de su hogar o empresa, 
+ya sea por robo o intrusión, situación de pánico,
+emitira una señal de contacto la cual abrira paso ala sirena para
+la disuasion del individuo.
+
+*CENTRAL DE ALARMA 
+*PIR  O SENSOR DE MOVIMIENTO
+*CONTACTO MAGNETICO 
+*ACTIVADOR DE PANICO
+*CONTROL REMOTO
+*BATERIA
+*SIRENA
